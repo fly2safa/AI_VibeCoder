@@ -1,0 +1,23 @@
+# Songs CLI Application Dependencies - Refactored Version
+# Install with: pip install -r requirements_refactored.txt
+
+# Core dependencies
+pymongo==4.6.0
+python-dotenv==1.0.0
+
+# Development dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.1
+
+# Optional: Enhanced CLI features
+rich==13.7.0
+click==8.1.7
+
+# Optional: Data validation
+pydantic==2.5.0
+
+# Optional: Better logging
+colorlog==6.8.0
