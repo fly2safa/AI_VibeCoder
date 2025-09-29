@@ -1,0 +1,13 @@
+# Environment Configuration for Songs CLI
+# Copy this file to .env and update with your actual MongoDB connection string
+
+# MongoDB Connection String (required)
+# Format: mongodb+srv://username:password@cluster.mongodb.net/
+# For local MongoDB: mongodb://localhost:27017/
+project_db_url=mongodb+srv://your_username:your_password@your_cluster.mongodb.net/
+
+# Optional: Database name (defaults to 'songs_db')
+# DB_NAME=songs_db
+
+# Optional: Logging level (DEBUG, INFO, WARNING, ERROR)
+# LOG_LEVEL=INFO

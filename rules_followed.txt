@@ -1,0 +1,2 @@
+I'd like to consolidate all imports in a module to the top of the module, 
+following the module's documentation.
